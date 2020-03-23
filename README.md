@@ -2,7 +2,7 @@
 
 Add the function below to ~/.bash_profile
 
-`
+```
 setupunity() {
 
     git init
@@ -11,5 +11,5 @@ setupunity() {
     git commit -m "Initial commit."
 
 }
-`
+```
 
