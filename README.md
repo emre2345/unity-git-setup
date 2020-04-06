@@ -1,5 +1,7 @@
 # Git Files To Automate Creating Unity Projects
 
+## For Mac OS X Users
+
 Add the function below to ~/.bash_profile
 
 ```
