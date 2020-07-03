@@ -18,3 +18,4 @@ setupunity() {
 
 ```
 
+This comment must be run after creating the unity project with the Unity Hub. Otherwise command will not be able to find the `Packages` folder.
