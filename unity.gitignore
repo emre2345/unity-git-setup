@@ -55,7 +55,10 @@ crashlytics-build.properties
 
 Assets/Plugins/Editor
 Assets/Plugins/Editor.meta
+
+#Editor Folders
 .idea/
+.vscode/
 
 #Vim Files
 *.swp
