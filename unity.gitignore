@@ -55,6 +55,7 @@ crashlytics-build.properties
 
 Assets/Plugins/Editor
 Assets/Plugins/Editor.meta
+UserSettings/
 
 #Editor Folders
 .idea/
